@@ -52,5 +52,6 @@ input{
 @media screen and (max-width: 720px){
     input{
         width: 60%;
+        font-size: 15px;
     }
 }
